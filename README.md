@@ -1,15 +1,15 @@
-# Recosense examples
-Example codes for Recosense RTLS.
+# RecoSense Examples
+Example codes for [RecoSense RTLS](https://www.irid-rtls.com).
 
-## Simple UDP viewer
-
-...
-
-## Standalone UDP viewer
+## Simple UDP Viewer
 
 ...
 
-## Plugin example
+## Standalone UDP Viewer
+
+...
+
+## Plugin Example
 
 ...
 
