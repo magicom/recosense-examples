@@ -1,5 +1,5 @@
 # RecoSense Examples
-Example codes for [RecoSense RTLS](https://www.irid-rtls.com).
+Example C# (Microsoft .NET 4.5) codes for [RecoSense RTLS](https://www.irid-rtls.com).
 
 See RecoSense in action! Watch our [video on Youtube](https://www.youtube.com/watch?v=GTMhKKt38lM) and learn how it helps deliver value for your customers.
 
