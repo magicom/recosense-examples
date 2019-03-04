@@ -17,4 +17,4 @@ See RecoSense in action! Watch our [video on Youtube](https://www.youtube.com/wa
 
 ...
 
-Licensed under MIT.
+Example codes licensed under MIT.
